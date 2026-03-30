@@ -1,2 +1,2 @@
 # ML-Assignment-MS26914596
-machine learning assignment
+The objective of this project is to develop machine learning models to accurately classify breast tumors as malignant or benign using diagnostic medical features. Early detection of breast cancer is critical in preventing the progression to more severe stages and improving patient survival rates. Therefore, various machine learning algorithms will be applied to identify underlying patterns in the data and assist in early-stage diagnosis.
