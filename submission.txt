@@ -1,1 +1,3 @@
-
+Link to the dataset                : https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic
+Link to a public Github repository : https://github.com/AnuradhaAbeyweera/ML-Assignment-MS26914596/tree/main
+Link to a youtube video            :
